@@ -64,6 +64,7 @@ public class SupFunctions {
         maxmin[0] = max;
         maxmin[1] = min;
         return maxmin;
+        
     }
 
     protected static ArrayList<ArrayList<Color>> createNewSquare(int height, int width, BufferedImage image, int dimension){
